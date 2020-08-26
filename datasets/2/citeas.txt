@@ -1,0 +1,1 @@
+Gaddy, Thomas D.; Wu, Qianhui; Arnheim, Alyssa D.; D. Finley, Stacey (2017): Mechanistic modeling quantifies the influence of tumor growth kinetics on the response to anti-angiogenic treatment. PLOS Computational Biology. Dataset. https://doi.org/10.1371/journal.pcbi.1005874
